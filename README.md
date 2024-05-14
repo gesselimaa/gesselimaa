@@ -1,16 +1,14 @@
-### Hi there 👋
+##boas vinda ao meu perfil 
 
-<!--
-**gesselimaa/gesselimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gezz
 
-Here are some ideas to get you started:
+-eu estou estudando no alura 
+-estou me desenvolvendo no intinerario de robotica
+-ultilizo este espaço para a minha compartilhamneto dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## vocÊ entra em contato comigo 
+
+00001077364313SP@al.eucacao.sp.gov.br
+
+
+![]()![image](https://github.com/gesselimaa/gesselimaa/assets/169850875/15dbd9e7-f59d-499c-be21-1c75df810d0b)
